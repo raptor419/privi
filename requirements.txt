@@ -1,0 +1,14 @@
+asgiref
+autopep8
+Django
+pycodestyle
+pytz
+sqlparse
+dj-database-url
+python-decouple
+gunicorn
+whitenoise
+django-heroku
+Unipath
+djangorestframework
+sumy
